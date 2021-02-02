@@ -1,6 +1,5 @@
 ### Hi there 👋 My name is Opap's. I'm a C# and Python developer currently exploring the realm of AI.
-
-
+<br>
 
 - 🔭 I’m currently working on a Mtg cards price prediction app
 - 🌱 I’m currently learning AI
