@@ -2,7 +2,6 @@
 <br>
 
 - 🔭 I’m currently working on a Mtg cards price prediction app
-- 🌱 I’m currently learning AI
 - 🤔 I’m looking for help with Blazor
 - 💬 Ask me about Mtg
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/opapsditudidi/)
