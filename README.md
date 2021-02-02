@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Blazor
 - 💬 Ask me about Mtg
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/opapsditudidi/)
-
+<br>
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Cassik6&show_icons=true&theme=default)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassik6&layout=compact)](https://github.com/Cassik6/github-readme-stats)
