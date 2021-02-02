@@ -1,8 +1,8 @@
-### Hi there 👋 My name is Opap's. I'm a C# and Python developer currently exploring le realm of AI.
+### Hi there 👋 My name is Opap's. I'm a C# and Python developer currently exploring the realm of AI.
 
 
 
-- 🔭 I’m currently working on Mtg cards price prediction
+- 🔭 I’m currently working on a Mtg cards price prediction app
 - 🌱 I’m currently learning AI
 - 🤔 I’m looking for help with Blazor
 - 💬 Ask me about Mtg
